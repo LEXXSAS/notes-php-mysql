@@ -1,7 +1,7 @@
 Notes in php mysql javascript
 
 > [!WARNING]
->before copying and start the project add your data in the file "db.php" </br>
+>before copying and start the project add your data in the file "db.php"
 >replace 'your_name_db', 'your_username_for_db', 'your_password_for_db' and port mysql </br>
 >$db = 'your_name_db'; </br>
 >$user = 'your_username_for_db'; </br>
