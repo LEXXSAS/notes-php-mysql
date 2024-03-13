@@ -1,4 +1,4 @@
-Notes in php mysql javascript
+####Notes in php mysql javascript
 
 > [!WARNING]
 >Before copying and start the project add your data in the file "db.php"
